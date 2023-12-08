@@ -1,0 +1,51 @@
+EmployeeID,Name,Department,Position,Salary,JoinDate,PerformanceScore,VacationDays,SickLeaveDays
+1011,Patricia Garcia,Marketing,Marketing Analyst,50372,2022-07-21 23:09:43,4.8,24,7
+1012,Natasha Gibson,Finance,Sales Manager,79270,2022-10-12 12:55:36,3.7,11,3
+1013,Jesse Ross,HR,Marketing Analyst,67390,2022-05-03 16:16:20,3.1,19,9
+1014,Jason Hinton,Marketing,Sales Manager,74350,2022-03-14 23:03:29,4.0,22,10
+1015,Alan Salazar,Sales,HR Specialist,66924,2022-08-10 18:12:46,3.9,13,4
+1016,Barbara Lee,Sales,Developer,68234,2022-10-13 07:04:33,3.7,23,9
+1017,Debra Peterson,IT,Sales Manager,78761,2022-05-16 14:24:25,4.8,21,2
+1018,Sandra Garza,IT,Marketing Analyst,52431,2022-05-06 21:57:27,3.6,13,2
+1019,Katelyn Weber,Sales,HR Specialist,66617,2022-06-22 19:02:16,4.5,10,5
+10110,Sheri Johnson,Sales,Developer,56533,2022-01-15 15:50:49,4.3,25,5
+10111,Meghan Roberts,Sales,Financial Analyst,70737,2022-10-22 09:47:11,4.2,24,10
+10112,Mark Wright,IT,Sales Manager,57006,2022-11-25 13:14:00,4.2,17,2
+10113,Karen Rodriguez,Marketing,Sales Manager,56695,2022-12-01 05:39:14,3.4,18,4
+10114,Patricia Nash,Finance,Marketing Analyst,61670,2022-03-26 21:58:03,4.5,22,8
+10115,Valerie Brown,Sales,HR Specialist,68282,2022-05-19 22:02:01,3.7,20,5
+10116,Robert Gill,IT,Sales Manager,60908,2022-10-15 05:18:08,3.4,13,9
+10117,David Velasquez,Sales,Financial Analyst,70013,2022-11-24 03:20:19,4.6,14,5
+10118,Samuel Pierce,Marketing,HR Specialist,75156,2022-03-22 08:07:24,4.1,12,3
+10119,Michael Graham,Sales,Financial Analyst,78966,2022-01-19 02:53:34,3.9,24,7
+10120,David Dyer,Marketing,Developer,69502,2022-04-26 08:17:58,4.7,14,5
+10121,William Wilson,Marketing,Sales Manager,68177,2022-03-10 03:06:03,4.5,14,3
+10122,Michael Lopez,Marketing,HR Specialist,58600,2022-11-01 20:42:35,4.3,25,3
+10123,Teresa Conner,Sales,HR Specialist,74683,2022-09-19 10:13:50,4.3,13,10
+10124,Holly Bentley,Sales,Developer,63966,2022-09-18 14:38:07,3.2,24,2
+10125,Ruben Wyatt,HR,Sales Manager,66782,2022-05-15 12:21:29,4.0,18,2
+10126,Donna Jones,IT,HR Specialist,73152,2022-03-05 14:42:01,3.5,18,7
+10127,Diane Hodges,HR,Financial Analyst,70412,2022-07-07 03:12:46,4.3,13,4
+10128,Angela Miller,IT,Developer,55469,2022-06-01 05:16:40,4.0,16,8
+10129,Samuel Martin,Marketing,HR Specialist,69230,2022-08-21 12:59:43,4.9,11,6
+10130,Sheila Miller,Finance,Sales Manager,74077,2022-08-03 18:36:28,4.8,14,5
+10131,Jenna Ramirez,Finance,HR Specialist,60557,2022-04-06 11:21:49,5.0,14,3
+10132,Matthew Glenn,Finance,Financial Analyst,74079,2022-03-21 12:58:13,4.6,12,9
+10133,Gary Gordon,HR,HR Specialist,69048,2022-12-22 15:42:50,4.4,16,4
+10134,Elizabeth Alvarado,Marketing,HR Specialist,72881,2022-10-15 11:34:05,4.6,12,2
+10135,Jaime Wilkinson,IT,Sales Manager,73404,2022-07-17 19:49:35,4.0,11,5
+10136,Corey Sullivan,IT,Developer,63479,2022-04-16 20:14:40,3.6,21,3
+10137,Charlene Wong,Sales,Sales Manager,68537,2022-04-11 16:15:00,3.7,23,2
+10138,Alexander Brown,IT,HR Specialist,61660,2022-08-05 15:00:06,4.2,13,6
+10139,Kimberly Harrison,Sales,HR Specialist,62147,2022-05-02 22:49:18,3.1,16,3
+10140,Nathaniel Alexander,IT,Sales Manager,53894,2022-04-30 22:16:06,3.8,13,10
+10141,Richard Strong,Marketing,Sales Manager,57557,2022-05-16 01:04:02,4.6,14,6
+10142,Ian Payne,Sales,HR Specialist,50004,2022-12-09 08:41:06,4.6,19,5
+10143,Nathan Miller,HR,HR Specialist,50744,2022-06-20 09:55:20,4.1,25,9
+10144,Daniel Hernandez,Sales,Developer,62694,2022-02-27 10:41:24,3.6,11,3
+10145,James Gonzalez,Marketing,Developer,75593,2022-09-12 00:00:31,4.6,11,7
+10146,Alexis Villanueva,Sales,Developer,55193,2022-09-13 07:01:37,4.0,14,10
+10147,Kathryn Chapman,Marketing,HR Specialist,79080,2022-07-23 09:55:23,3.9,21,10
+10148,Danielle Byrd,IT,Marketing Analyst,76912,2022-02-12 13:51:12,3.0,11,8
+10149,Jillian Miller,Marketing,HR Specialist,76644,2022-07-01 12:08:01,3.5,12,6
+10150,Christopher Baker,Marketing,Sales Manager,68586,2022-12-25 20:35:28,3.1,23,9
